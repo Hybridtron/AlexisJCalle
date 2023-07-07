@@ -5,15 +5,15 @@ Hi there my name is Alexis
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: prerequisites and installation](https://github.com/Hybridtron/osticket-prereqs)
-  - [osTicket: Configuration](https://github.com/AlexisJCalle/osTicket-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/AlexisJCalle/osTicket-Ticket-Lifecycle-Examples)
+  - [osTicket: Configuration](https://github.com/Hybridtron/osTicket-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Hybridtron/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Implementing Active Directory within Azure VMs](https://github.com/AlexisJCalle/Configuring-Active-Directory-within-Azure-VMs)
-  - [Creating resourcegroups within azure portal](https://github.com/AlexisJCalle/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/README.md)
+  - [Implementing Active Directory within Azure VMs](https://github.com/Hybridtron/Configuring-Active-Directory-within-Azure-VMs)
+  - [Creating resourcegroups within azure portal](https://github.com/Hybridtron/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/blob/main/README.md)
 
 - <b>Virtual Private Network</b>
 
-  - [Setting Up A Virutal Private Network](https://github.com/AlexisJCalle/Setting-up-a-VPN)
+  - [Setting Up A Virutal Private Network](https://github.com/Hybridtron/Setting-up-a-VPN)
 
 
 
