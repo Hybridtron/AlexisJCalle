@@ -4,6 +4,7 @@ Hi there my name is Alexis
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: prerequisites and installation](https://github.com/AlexisJCalle/osticket-prereqs)
   - [osTicket: Configuration](https://github.com/AlexisJCalle/osTicket-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AlexisJCalle/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
